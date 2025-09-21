@@ -85,6 +85,7 @@ NIFTY50_Influence_Impack_Risk-analysis/
 
 * SBILIFE and HDFCLIFE have missing values for many dates.
 * Reason is that these stocks were listed after mid 2017.
+* Outliers are in the range of -0.3 to 0.3
 * Different data type and some missing/unique rows.
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
