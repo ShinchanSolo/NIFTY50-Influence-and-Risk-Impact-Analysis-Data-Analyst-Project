@@ -1,5 +1,5 @@
 
-# 🧾 NIFTY50 Stock Influence and Risk-Impact Analysis_Dashboard – Stock Market & Finance
+# 🧾 NIFTY50 Stock Influence and Risk-Impact Analysis – Stock Market & Finance
 
 Analyzing 50 stocks of Nifty50 to calculate the influence impact and risk to make a calculated trading decisions with the help of Python and Power Bi.
 
