@@ -131,7 +131,7 @@ NIFTY50_Influence_Impack_Risk-analysis/
   - Provides key calculated metrics like Beta and R².
   - Count of stocks by quadrant.
 
-![](Dash_Images\Dashboard.png)
+![](Dash_Images/Dashboard.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
