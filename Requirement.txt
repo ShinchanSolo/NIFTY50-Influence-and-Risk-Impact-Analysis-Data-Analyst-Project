@@ -1,0 +1,12 @@
+pandas
+numpy
+yfinance
+datetime
+sqlalchemy
+psycopg2
+glob
+os
+statsmodels
+matplotlib
+openpyxl
+seaborn
